@@ -10,7 +10,7 @@ const passwordLocator = "//input[@type='password']";
 const homepageLocator =
   "//p[@class='text-16 font-normal line-height-150 text-gray-700']";
 const orderLocator = "//li[@id ='Orders']";
-const addOrderlocator = "//span[@class='align-middle ms-25']";
+const addOrderlocator = "//button[@class='ms-1 btn btn-primary']";
 const dineLocator = "//h1[@class='mb-1']";
 const tableElementLocator =
   "//*[@class='TableCards_firstcontainer__1nY-J']//*[text()='Table 001']";
